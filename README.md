@@ -1,6 +1,6 @@
 # Clima-Tempo
 
-Clima-Tempo é um projeto que tem o objetivo de informar o clima por meio das coordenadas do navegador ou por meio de um menu de buscas, este projeto foi feito em duas partes front-end e back-end, sendo essa parte o front-end feito em React.
+Clima-Tempo é um projeto que tem o objetivo de informar o clima por meio das coordenadas do navegador ou por meio de um menu de buscas, este projeto foi feito em duas partes front-end e [back-end](https://github.com/cristhianrodrigues/backend-climatempo), sendo essa parte o front-end feito em React.
 
 
 O projeto pode ser testado no link: https://frontend-climatempo-bvezk82j4-cristhianrodrigues.vercel.app/
